@@ -316,9 +316,7 @@ pd.crosstab(labels1, labels2)  # Contingency table
 ## 📝 Usage
 
 1. **Run the notebook**:
-   ```bash
-   jupyter notebook as4.ipynb
-   ```
+
 
 2. **Execute cells sequentially**:
    - Cells 1-9: Basic tasks
