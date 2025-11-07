@@ -1,0 +1,17 @@
+[project]
+name = "s6207-4"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "pandas",
+    "numpy",
+    "torch",
+    "scikit-learn",
+    "matplotlib",
+    "scipy",
+    "seaborn",
+    "pip>=25.3",
+    "ipykernel>=7.1.0",
+]
